@@ -1,0 +1,17 @@
+name: "Trabajo Final Is-244"
+output_dir: "."
+navbar:
+  title: "ESTADISTICA INFERENCIAL"
+  left:
+    - text: "Introducción"
+      href: index.html
+    - text: "Distribución de Probabilidad"     
+      href: probabilidades.html  
+    - text: "Distribuciones Muestrales"
+      href: muestra.html
+
+output:
+  html_document:
+    theme: flatly
+    css: estilos.Css
+  
